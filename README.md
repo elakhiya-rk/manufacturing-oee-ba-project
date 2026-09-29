@@ -1,7 +1,6 @@
 # Manufacturing Downtime & OEE Analysis — Business Analysis Portfolio Project
 
 **Author:** Elakhiya Ramakrishnan Karthikeyan · Business Analyst | Power BI & SQL · Fremont, CA
-**Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [3-min video walkthrough](YOUR-LOOM-LINK)
 
 > **Note:** *Apex Precision Components* is a fictional company, and all data in this repo is synthetic. It was generated to simulate a Manufacturing Execution System (MES) export. The business analysis methods, documents and deliverables reflect real BA practice.
 
